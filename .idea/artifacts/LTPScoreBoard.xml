@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LTPScoreBoard">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="LTPScoreBoard.jar">
+      <element id="module-output" name="LTPScoreBoard" />
+    </root>
+  </artifact>
+</component>
