@@ -10,6 +10,8 @@
     <orderEntry type="library" name="spigot_server" level="project" />
     <orderEntry type="library" name="PermissionsEx-1.23.3" level="project" />
     <orderEntry type="library" name="LTPFactionLevels" level="project" />
-    <orderEntry type="library" name="ltpstattrack" level="project" />
+    <orderEntry type="library" name="Vault" level="project" />
+    <orderEntry type="library" name="Factions" level="project" />
+    <orderEntry type="library" name="MassiveCore" level="project" />
   </component>
 </module>

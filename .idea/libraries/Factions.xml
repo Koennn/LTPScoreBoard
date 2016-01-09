@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="ltpstattrack">
+  <library name="Factions">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/LTP/LTPStatTrack.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/LTP/Factions.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
