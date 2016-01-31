@@ -1,4 +1,4 @@
-package me.koenn.LTPSB;
+package me.koenn.LTPSB.util;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.Plugin;
